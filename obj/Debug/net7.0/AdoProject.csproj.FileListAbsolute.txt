@@ -1,0 +1,17 @@
+C:\Users\Uthman\Desktop\AdoProject\bin\Debug\net7.0\AdoProject.exe
+C:\Users\Uthman\Desktop\AdoProject\bin\Debug\net7.0\AdoProject.deps.json
+C:\Users\Uthman\Desktop\AdoProject\bin\Debug\net7.0\AdoProject.runtimeconfig.json
+C:\Users\Uthman\Desktop\AdoProject\bin\Debug\net7.0\AdoProject.dll
+C:\Users\Uthman\Desktop\AdoProject\bin\Debug\net7.0\AdoProject.pdb
+C:\Users\Uthman\Desktop\AdoProject\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.csproj.AssemblyReference.cache
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.AssemblyInfoInputs.cache
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.AssemblyInfo.cs
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.csproj.CoreCompileInputs.cache
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.csproj.CopyComplete
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.dll
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\refint\AdoProject.dll
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.pdb
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\AdoProject.genruntimeconfig.cache
+C:\Users\Uthman\Desktop\AdoProject\obj\Debug\net7.0\ref\AdoProject.dll

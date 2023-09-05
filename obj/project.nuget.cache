@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sETzgFN1Hl24TrpRCbc7P502sBhRW/VTepuewPbsUHm4csih6bWnWmpUdmwBiljTykIAs9kmwwdegi8g/ha4yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uthman\\Desktop\\AdoProject\\AdoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uthman\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
